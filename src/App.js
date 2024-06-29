@@ -46,7 +46,7 @@ function App() {
   return (
   <>
 
-      <Navbar title="JESS" about="about" mode={mode} togglemode={togglemode} />
+      <Navbar title="aadi" about="about" mode={mode} togglemode={togglemode} />
       <Alert alert={alert}/>
       <div className="container my-3">
          <Text showalert={showalert} heading="Enter the text to convert" mode={mode} />
