@@ -1,2 +1,2 @@
 # TEXTY
-This app  will help  you to convert your text in difft forms.
+This site will help  you to convert your text in difft forms.
